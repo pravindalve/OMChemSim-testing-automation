@@ -11,16 +11,16 @@ in OMChemSim.
 # Use
 * Run GUI.py
 
-* Click on settings button on toolbar and enter the working directory path and Simulator path
+* Click on "Settings" button on the toolbar and enter a working directory path and a Simulator path
 
   <img src = "Images/settingswindow.png" width = "400">
   
- * Enter the examples and paths of old results csv files for comparison
+ * Enter the examples and the paths of old result's .csv files for comparison
  
     <img src = "Images/mainwindow.png" width = "400">
   
- * Click on Simulation button on toolbar
+ * Click on "Simulation" button on the toolbar
  
- * Check in terminal if simulation is completed. After simulation gets completed, click on report button to see report.
+ * Check in the terminal if a simulation is completed. After a simulation gets completed, click on "Report" button to see the Report.
  
    <img src = "Images/reportwindow.png" width = "400">
