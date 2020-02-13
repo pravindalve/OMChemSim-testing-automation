@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+build/
+dist/
+files/
+tempfiles/
+venv/
+GUI.spec
+test.py
