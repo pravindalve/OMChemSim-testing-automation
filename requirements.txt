@@ -1,2 +1,2 @@
-reportlab==3.5.34
+reportlab==3.6.13
 PyQt5==5.14.1
